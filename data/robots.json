@@ -1,0 +1,54 @@
+{
+    "alpha": {
+        "structure": 45,
+        "toughness": 2,
+        "speed": 3,
+        "acceleration": 2,
+        "lateral": true,
+        "weapons": [
+            "chainsaw"
+        ]
+    },
+    "beta": {
+        "structure": 70,
+        "toughness": 1,
+        "speed": 3,
+        "acceleration": 1,
+        "lateral": false,
+        "weapons": [
+            "cannon"
+        ]
+    },
+    "delta": {
+        "structure": 60,
+        "toughness": 3,
+        "speed": 2,
+        "acceleration": 2,
+        "lateral": false,
+        "weapons": [
+            "helix"
+        ]
+    },
+    "omega": {
+        "structure": 80,
+        "toughness": 1,
+        "speed": 1,
+        "acceleration": 1,
+        "lateral": false,
+        "weapons": [
+            "gun",
+            "chainsaw"
+        ]
+    },
+    "omicron": {
+        "structure": 40,
+        "toughness": 1,
+        "speed": 3,
+        "acceleration": 2,
+        "lateral": true,
+        "weapons": [
+            "gun",
+            "spear"
+        ]
+    }
+}

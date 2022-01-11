@@ -1,0 +1,42 @@
+{
+    "cannon": {
+        "name": "Cannon C-1",
+        "reload": 3,
+        "damage": 3,
+        "fumble": 4,
+        "ammoStock": 20,
+        "ammoCost": true
+    },
+    "gun": {
+        "name": "Mounted gun",
+        "reload": 2,
+        "damage": 2,
+        "fumble": 2,
+        "ammoStock": 60,
+        "ammoCost": true
+    },
+    "chainsaw": {
+        "name": "Heavy chainsaw",
+        "reload": 0,
+        "damage": 4,
+        "fumble": 6,
+        "ammoStock": 0,
+        "ammoCost": false
+    },
+    "helix": {
+        "name": "Front helix",
+        "reload": 2,
+        "damage": 3,
+        "fumble": 3,
+        "ammoStock": 0,
+        "ammoCost": false
+    },
+    "spear": {
+        "name": "Piston spear",
+        "reload": 1,
+        "damage": 4,
+        "fumble": 3,
+        "ammoStock": 0,
+        "ammoCost": false
+    }
+}
